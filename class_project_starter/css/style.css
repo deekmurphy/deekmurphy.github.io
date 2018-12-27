@@ -1,0 +1,20 @@
+body {
+  background-color: #FFFFFF;
+  color: #000000;
+  font-family: "Thasadith", sans-serif;
+
+}
+
+h1 {
+  text-align: center;
+  text-transform: lowercase;
+  letter-spacing: 2px;
+  font-size: 55px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 25px;
+  display: inline-block;
+  padding: 0 30px;
+}
